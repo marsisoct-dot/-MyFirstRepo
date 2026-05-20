@@ -1,0 +1,3 @@
+What I have learned from this course is the basics of GitHub
+ and how it is used for collaboration and project management in software development. I learned about creating repositories, forking projects, making branches, and submitting pull requests. Recently, I also learned how to clone repositories and work from a local repository, which helped me better understand how developers manage and contribute to projects efficiently.
+  
